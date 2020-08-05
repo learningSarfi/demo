@@ -4,4 +4,4 @@ This is a sample readme file
 
 #ADDING ONE MORE LINE
 
-just added something new, hoping for a conflit now.
+This will create a conflit now
