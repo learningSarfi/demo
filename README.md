@@ -5,4 +5,8 @@ This is a sample readme file
 #ADDING ONE MORE LINE
 
 Checking and working on merge and branch
+<<<<<<< HEAD
 ROFL
+=======
+LOL
+>>>>>>> bro
