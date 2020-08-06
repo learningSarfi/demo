@@ -4,4 +4,5 @@ This is a sample readme file
 
 #ADDING ONE MORE LINE
 
-Conflit is resolved now
+Checking and working on merge and branch
+New branch addition
